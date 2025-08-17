@@ -91,7 +91,7 @@ export default function Home() {
 		try {
 			// console.log(emails.split(',').map((email) => email.trim()).filter((email) => email.length!==0))
 			const res = await axios.post(
-				`${backendUrl} + "/send-email"`,
+				`${backendUrl} + "send-email"`,
 				{
 					emails: emails
 						.split(",")
