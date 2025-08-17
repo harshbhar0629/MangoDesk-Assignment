@@ -21,6 +21,14 @@ This project integrates **Groq API** for AI-powered text generation and **Nodema
 
 ---
 
+---
+
+## 🔗 Live Demo  
+
+👉 [Try the app here](https://mangodesk-assignment-kappa.vercel.app/)  
+
+---
+
 ## 🛠️ Tech Stack  
 
 - **Frontend:** React + Vite  
