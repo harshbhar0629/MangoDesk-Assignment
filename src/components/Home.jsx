@@ -35,7 +35,7 @@ export default function Home() {
 			messages: [
 				{
 					role: "system",
-					content: "You are a helpful assistant, give response accordingly.",
+					content: "You are a helpful assistant.",
 				},
 				{
 					role: "user",
