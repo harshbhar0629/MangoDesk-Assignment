@@ -90,8 +90,10 @@ export default function Home() {
 		const id = toast.loading("Sending email...");
 		try {
 			// console.log(emails.split(',').map((email) => email.trim()).filter((email) => email.length!==0))
+			const url = backendUrl + "send-email";
+			console.log(url)
 			const res = await axios.post(
-				`${backendUrl} + "send-email"`,
+				url,
 				{
 					emails: emails
 						.split(",")
