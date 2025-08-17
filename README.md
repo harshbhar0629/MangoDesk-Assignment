@@ -35,6 +35,6 @@ This project integrates **Groq API** for AI-powered text generation and **Nodema
 Clone this repository and install dependencies:  
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/harshbhar0629/MangoDesk-Assignment.git
 cd your-repo-name
 npm install
